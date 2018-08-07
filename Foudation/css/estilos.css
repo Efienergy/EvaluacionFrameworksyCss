@@ -1,0 +1,42 @@
+
+body{
+  background-image: url(../img/8.jpg);
+}
+.fondo{
+  background-color: rgba(0,0,0,0.5);
+}
+
+
+h5{
+  float: right;
+}
+
+.encabezado{
+  background-color: rgba(56,122,150,0.9);
+
+}
+
+.Cuerpo{
+  background-color: rgba(255,255,255,0.4);
+}
+
+.culo{
+  background-color: rgba(232,215,237,0.7);
+}
+
+.colder{
+  background-color: rgba(232,215,237,0.5);
+  padding-left: 30px;
+}
+.fotos{
+  width: 320px;
+  padding-left: 10px;
+}
+
+.coment{
+  width: 100%;
+}
+
+.coltai{
+  background-color: rgba(140,183,187,0.7);
+}
